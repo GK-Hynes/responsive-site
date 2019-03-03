@@ -76,7 +76,7 @@ img {
   grid-gap: 10px;
   padding: 0;
   list-style: none;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 
 .menu a {
